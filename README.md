@@ -1,7 +1,7 @@
 -👏 Hi, I’m @ Rakesh Bhardwaj
 - 👀 I’m interested in ...Full Stack Development
 - 🌱 I’m currently learning ...Front End/ Back End 
-- 🐱‍🏍 I knows C/Python Programming
+- 🐱‍🏍 I knows Java/Python Programming
 - 📫 How to reach me ...Mail me @ --> rakadking@gmail.com
 
 <!---
