@@ -1,9 +1,10 @@
 -👏 Hi, I’m @ Rakesh Bhardwaj
 - 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...Front End/ Back End 
-- 🐱‍🏍 I knows Java/Python Programming
+- 🌱 I’m currently learning ...working on deployement of Laundry Service App 
+- 🐱‍🏍 I knows Python/Java Programming
 - 📫 How to reach me ...Mail me @ --> rakadking@gmail.com
 - @@ See my Projects here -> https://rakadking.github.io/MyPortfolio/
+- @@ See some of my small react app --> https://codesandbox.io/dashboard/home?workspace=28ce6b7d-44d1-4ca0-8cb0-91ec8e5c7bea
 
 
 <!---
