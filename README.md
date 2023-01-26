@@ -1,7 +1,7 @@
 -👏 Hi, I’m @ Rakesh Bhardwaj
-- 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...working on deployement of Laundry Service App 
-- 🐱‍🏍 I knows Python/Java Programming
+- 👀 I’m a Full Stack Developer.
+- 🌱 I’m currently working in **Flutura Decision Sciences and Anaytics**.
+- 🐱‍🏍 I knows Javascript/Python/Java Programming/Node/Angular/React/Data Visualization...
 - 📫 How to reach me ...Mail me @ --> rakadking@gmail.com
 - @@ See my Projects here -> https://rakadking.github.io/MyPortfolio/
 - @@ See some of my small react app --> https://codesandbox.io/dashboard/home?workspace=28ce6b7d-44d1-4ca0-8cb0-91ec8e5c7bea
